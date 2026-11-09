@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Synapse project files
+data/uploads/
+data/indexes/
+
+# Local model cache
+.cache/
